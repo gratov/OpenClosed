@@ -27,7 +27,7 @@ public class ListSorter {
     }
 
     private int compare(String sorted, String sorting) {
-        //return -1 wanneer een sorting voor de reeds sorted string moet komen in de lijst
+        //return -1 wanneer sorting voor de reeds sorted string moet komen in de lijst
         return sorted.compareTo(sorting);
     }
 
