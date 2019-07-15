@@ -1,4 +1,4 @@
-package com.cegeka.bool.openclosed.excercise3;
+package com.cegeka.bool.openclosed.exercise2;
 
 import java.util.*;
 

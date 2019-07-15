@@ -1,6 +1,6 @@
-package com.cegeka.bool.openclosed.exercise2.products;
+package com.cegeka.bool.openclosed.exercise3.products;
 
-public class Item implements ShopItem {
+public class Item  {
     private double unitPrice;
     private String description;
     private int amount;
@@ -42,9 +42,5 @@ public class Item implements ShopItem {
     public Item setAmount(int amount) {
         this.amount = amount;
         return this;
-    }
-
-    public double getTotalItemPrice(){
-        return unitPrice * amount;
     }
 }

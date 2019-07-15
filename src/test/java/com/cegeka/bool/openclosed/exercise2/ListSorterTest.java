@@ -1,11 +1,7 @@
-package com.cegeka.bool.openclosed.excercise3;
+package com.cegeka.bool.openclosed.exercise2;
 
-import com.cegeka.bool.openclosed.excercise3.ListSorter;
-import com.cegeka.bool.openclosed.exercise1.shapes.Rectangle;
-import com.cegeka.bool.openclosed.exercise1.shapes.Triangle;
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.Collection;
 
 import static org.assertj.core.api.Assertions.assertThat;

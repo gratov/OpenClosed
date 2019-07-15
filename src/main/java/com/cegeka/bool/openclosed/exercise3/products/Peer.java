@@ -1,4 +1,4 @@
-package com.cegeka.bool.openclosed.exercise2.products;
+package com.cegeka.bool.openclosed.exercise3.products;
 
 public class Peer extends Item {
 

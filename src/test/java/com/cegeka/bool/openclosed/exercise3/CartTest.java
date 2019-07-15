@@ -1,7 +1,7 @@
-package com.cegeka.bool.openclosed.exercise2;
+package com.cegeka.bool.openclosed.exercise3;
 
-import com.cegeka.bool.openclosed.exercise2.products.Appel;
-import com.cegeka.bool.openclosed.exercise2.products.Peer;
+import com.cegeka.bool.openclosed.exercise3.products.Appel;
+import com.cegeka.bool.openclosed.exercise3.products.Peer;
 import org.assertj.core.api.Assertions;
 import org.junit.Before;
 import org.junit.Test;
